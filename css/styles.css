@@ -9,9 +9,9 @@ h1 {
   color:#66BFBF;
   margin-top:50px;
   margin:50px auto 0 auto;
-  font-family: 'Sacramento', cursive;
+  font-family: 'DynaPuff', cursive;
   line-height:2;
-  font-size:7.625rem; /*100%=16px, 90px/16=562.5 (for dynamic size)*/
+  font-size:6.625rem; /*100%=16px, 90px/16=562.5 (for dynamic size)*/
                     /*1em = 16pixels = 100%*/
                     /*em and % are dynamic*/
                     /*em inherits from body (h1frombody)*/
@@ -88,7 +88,7 @@ a:hover{
   height:100px;
 }
 .mountain{
-  height:430px;
+  height:455px;
 }
 .certificate {
   height:350px;
