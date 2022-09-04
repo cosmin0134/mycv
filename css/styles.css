@@ -4,9 +4,7 @@ body {
   text-align:center;
   font-family: 'Merriweather', sans-serif;
 }
-.subtitle{
-  font-family: 'DynaPuff', sans-serif;
-}
+
 h1 {
   color:#66BFBF;
   margin-top:50px;
@@ -22,7 +20,7 @@ h1 {
 h2 {
   color:#66BFBF;
   font-weight:normal;
-  font-family:'Montserrat', sans-serif;
+  font-family:'DynaPuff', sans-serif;
   font-size:2.5rem;
   padding-bottom:10px;
 }
