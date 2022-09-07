@@ -67,6 +67,7 @@ btn:hover{
   background-color: #E4F9F5;
   position:relative;
   padding-top:130px;
+  height:840px;
 }
 
 .middle-container {
@@ -104,6 +105,7 @@ btn:hover{
 }
 .mountain{
   height:455px;
+
 }
 .certificate {
   height:350px;
